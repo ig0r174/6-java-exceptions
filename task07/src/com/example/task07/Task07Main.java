@@ -20,7 +20,6 @@ public class Task07Main {
         } catch (Exception e) {
             return CHECKED;
         }
-
         return NONE;
 
     }
